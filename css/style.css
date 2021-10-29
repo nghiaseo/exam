@@ -60,7 +60,6 @@ footer{
     }
     #block-left,#block-center,#block-right{
       width: 100%;
-      float: none;
-        
+      float: none;     
     }
 }
